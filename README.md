@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakesh0z
-- 👀 I’m interested in DataAnalyst field
-- 🌱 I’m currently learning PowerBi
+- 👀 I’m interested in Fullstack
+- 🌱 I’m currently learning SpringBoot
 
 
 <!---
