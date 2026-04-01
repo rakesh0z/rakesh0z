@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rakesh0z
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning SpringBoot
 
 
 <!---
