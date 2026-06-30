@@ -8,7 +8,7 @@ I'm a Computer Science (CSE-AI) student passionate about building scalable web a
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (AI) Student at **GIFT Autonomous, Bhubaneswar**
+* 🎓 B.Tech CSE (AI) Student
 * 💻 Backend-focused Full Stack Developer
 * 🌱 Currently learning **System Design, DevOps & Advanced Backend Development**
 * 🤝 Interested in **Open Source Contributions**
